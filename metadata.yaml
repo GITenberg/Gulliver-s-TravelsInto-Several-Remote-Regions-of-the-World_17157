@@ -1,0 +1,115 @@
+_repo: Gulliver-s-TravelsInto-Several-Remote-Regions-of-the-World_17157
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17157-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Swift, Jonathan
+    alias: Swift, J. (Jonathan)
+    birthdate: 1667
+    deathdate: 1745
+    gutenberg_agent_id: '326'
+    url: http://www.gutenberg.org/2009/agents/326
+    wikipedia: http://en.wikipedia.org/wiki/Jonathan_Swift
+  editor:
+    agent_name: Balliet, Thomas M. (Thomas Minard)
+    birthdate: 1852
+    deathdate: 1942
+    gutenberg_agent_id: '7186'
+    url: http://www.gutenberg.org/2009/agents/7186
+description: "Gulliver's Travels, or Travels into Several Remote Nations of the World.\
+  \ In Four Parts. By Lemuel Gulliver, First a Surgeon, and then a Captain of Several\
+  \ Ships, (which is the full title), is a prose satire by Irish writer and clergyman\
+  \ Jonathan Swift, that is both a satire on human nature and the \"travellers' tales\"\
+  \ literary subgenre. It is Swift's best known full-length work, and a classic of\
+  \ English literature. He himself claimed that he wrote Gulliver's Travels \"to vex\
+  \ the world rather than divert it\".\nThe book became popular as soon as it was\
+  \ published. John Gay wrote in a 1726 letter to Swift that \"It is universally read,\
+  \ from the cabinet council to the nursery.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17157'
+  wikidata: Q181488
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gulliver, Lemuel (Fictitious character) -- Fiction'
+- !lcsh 'Satire'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Voyages, Imaginary -- Early works to 1800'
+- !lcc 'PR'
+title: Gulliver's Travels into Several Remote Regions of the World
+url: http://www.gutenberg.org/ebooks/17157
+wikipedia:
+- https://fi.wikipedia.org/wiki/Gulliverin_retket
+- https://eo.wikipedia.org/wiki/La_voja%C4%9Doj_de_Gulivero
+- https://pa.wikipedia.org/wiki/%E0%A8%97%E0%A9%81%E0%A8%B2%E0%A9%80%E0%A8%B5%E0%A8%B0%E0%A8%B8_%E0%A8%9F%E0%A8%B0%E0%A9%88%E0%A8%B5%E0%A8%B2%E0%A8%9C%E0%A8%BC
+- https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B4%D1%80%D0%B8_%D0%93%D1%83%D0%BB%D0%BB%D1%96%D0%B2%D0%B5%D1%80%D0%B0
+- https://fa.wikipedia.org/wiki/%D8%B3%D9%81%D8%B1%D9%87%D8%A7%DB%8C_%DA%AF%D8%A7%D9%84%DB%8C%D9%88%D8%B1
+- https://als.wikipedia.org/wiki/Gullivers_Reisen
+- https://vi.wikipedia.org/wiki/Gulliver_du_k%C3%AD
+- https://en.wikisource.org/wiki/Gulliver%27s_Travels
+- https://hy.wikipedia.org/wiki/%D4%B3%D5%B8%D6%82%D5%AC%D5%AB%D5%BE%D5%A5%D6%80%D5%AB_%D5%B3%D5%A1%D5%B6%D5%A1%D5%BA%D5%A1%D6%80%D5%B0%D5%B8%D6%80%D5%A4%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%D5%B6%D5%A5%D6%80%D5%A8
+- https://ku.wikipedia.org/wiki/Gulliver%27s_Travels_(pirt%C3%BBk)
+- https://zh-yue.wikipedia.org/wiki/%E6%A0%BC%E5%88%97%E4%BD%9B%E9%81%8A%E8%A8%98
+- https://el.wikipedia.org/wiki/%CE%A4%CE%B1_%CF%84%CE%B1%CE%BE%CE%AF%CE%B4%CE%B9%CE%B1_%CF%84%CE%BF%CF%85_%CE%93%CE%BA%CE%B9%CE%BF%CF%8D%CE%BB%CE%B9%CE%B2%CE%B5%CF%81
+- https://az.wikipedia.org/wiki/Qulliverin_s%C9%99yah%C9%99ti
+- https://pl.wikiquote.org/wiki/Podr%C3%B3%C5%BCe_Guliwera
+- https://gl.wikipedia.org/wiki/As_viaxes_de_Gulliver
+- https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%83%B4%E3%82%A1%E3%83%BC%E6%97%85%E8%A1%8C%E8%A8%98
+- https://ml.wikipedia.org/wiki/%E0%B4%97%E0%B4%B3%E0%B5%8D%E0%B4%B3%E0%B4%BF%E0%B4%B5%E0%B5%87%E0%B4%B4%E0%B5%8D%E0%B4%B8%E0%B5%8D_%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%B5%E0%B5%BD%E0%B4%B8%E0%B5%8D
+- https://war.wikipedia.org/wiki/Mga_pagbiyahe_ni_Gulliver
+- https://es.wikipedia.org/wiki/Los_viajes_de_Gulliver
+- https://sk.wikipedia.org/wiki/Gulliverove_cesty
+- https://en.wikipedia.org/wiki/Gulliver%27s_Travels
+- https://mk.wikipedia.org/wiki/%D0%93%D1%83%D0%BB%D0%B8%D0%B2%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D1%82%D0%B5_%D0%BF%D0%B0%D1%82%D1%83%D0%B2%D0%B0%D1%9A%D0%B0
+- https://uz.wikipedia.org/wiki/Gulliverning_sayohatlari
+- https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F_%D0%93%D1%83%D0%BB%D0%BB%D0%B8%D0%B2%D0%B5%D1%80%D0%B0
+- https://bn.wikipedia.org/wiki/%E0%A6%97%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%B0%E2%80%99%E0%A6%B8_%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AD%E0%A7%87%E0%A6%B2%E0%A6%B8
+- https://ro.wikipedia.org/wiki/C%C4%83l%C4%83toriile_lui_Gulliver
+- https://ko.wikipedia.org/wiki/%EA%B1%B8%EB%A6%AC%EB%B2%84_%EC%97%AC%ED%96%89%EA%B8%B0
+- https://rue.wikipedia.org/wiki/%D0%93%D1%83%D0%BB%D0%BB%D0%B8%D0%B2%D0%B5%D1%80%D0%BE%D0%B2%D1%8B_%D0%B2%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%BA%D1%8B
+- https://et.wikipedia.org/wiki/Gulliveri_reisid
+- https://fr.wikipedia.org/wiki/Les_Voyages_de_Gulliver
+- https://sh.wikipedia.org/wiki/Gulliverova_putovanja
+- https://zh.wikipedia.org/wiki/%E6%A0%BC%E5%88%97%E4%BD%9B%E9%81%8A%E8%A8%98
+- https://ast.wikipedia.org/wiki/Los_viaxes_de_Gulliver
+- https://sl.wikipedia.org/wiki/Guliverjeva_potovanja
+- https://en.wikiquote.org/wiki/Gulliver%27s_Travels
+- https://pl.wikipedia.org/wiki/Podr%C3%B3%C5%BCe_Guliwera
+- https://da.wikipedia.org/wiki/Gullivers_rejser
+- https://simple.wikipedia.org/wiki/Gulliver%27s_Travels
+- https://ar.wikipedia.org/wiki/%D8%B1%D8%AD%D9%84%D8%A7%D8%AA_%D8%BA%D9%88%D9%84%D9%8A%D9%81%D8%B1
+- https://be-tarask.wikipedia.org/wiki/%D0%9F%D0%B0%D0%B4%D0%B0%D1%80%D0%BE%D0%B6%D0%B6%D1%8B_%D0%93%D1%83%D0%BB%D1%96%D0%B2%D1%8D%D1%80%D0%B0
+- https://sv.wikipedia.org/wiki/Gullivers_resor
+- https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%94%E0%B8%B4%E0%B8%99%E0%B8%97%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%A5%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%AD%E0%B8%A3%E0%B9%8C
+- https://hu.wikipedia.org/wiki/Gulliver_utaz%C3%A1sai
+- https://is.wikipedia.org/wiki/Reisub%C3%B3k_G%C3%BAll%C3%ADvers
+- https://fa.wikiquote.org/wiki/%D8%B3%D9%81%D8%B1%D9%87%D8%A7%DB%8C_%DA%AF%D8%A7%D9%84%DB%8C%D9%88%D8%B1
+- https://pt.wikisource.org/wiki/Viagens_de_Gulliver
+- https://es.wikisource.org/wiki/Los_viajes_de_Gulliver
+- https://nl.wikipedia.org/wiki/Gullivers_reizen
+- https://hi.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B2%E0%A4%BF%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B8_%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%87%E0%A4%B5%E0%A4%B2%E0%A5%8D%E0%A4%B8
+- https://eu.wikipedia.org/wiki/Gulliverren_bidaiak
+- https://oc.wikipedia.org/wiki/Los_Viatges_de_Gulliver
+- https://de.wikipedia.org/wiki/Gullivers_Reisen
+- https://my.wikipedia.org/wiki/%E1%80%82%E1%80%AB%E1%80%9C%E1%80%85%E1%80%BA%E1%80%97%E1%80%AC%E1%81%8F%E1%80%81%E1%80%9B%E1%80%AE%E1%80%B8%E1%80%85%E1%80%89%E1%80%BA
+- https://lv.wikipedia.org/wiki/Gulivera_ce%C4%BCojumi
+- https://cs.wikipedia.org/wiki/Gulliverovy_cesty
+- https://cy.wikipedia.org/wiki/Gulliver%27s_Travels
+- https://bg.wikipedia.org/wiki/%D0%9F%D1%8A%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D1%8F%D1%82%D0%B0_%D0%BD%D0%B0_%D0%93%D1%8A%D0%BB%D0%B8%D0%B2%D0%B5%D1%80
+- https://pl.wikisource.org/wiki/Podr%C3%B3%C5%BCe_Gulliwera
+- https://it.wikipedia.org/wiki/I_viaggi_di_Gulliver
+- https://no.wikipedia.org/wiki/Gullivers_reiser
+- https://hr.wikipedia.org/wiki/Gulliverova_putovanja
+- https://ca.wikipedia.org/wiki/Els_viatges_de_Gulliver
+- https://cdo.wikipedia.org/wiki/Gulliver_L%E1%B9%B3%CC%84-h%C3%A8ng-g%C3%A9
+- https://tr.wikipedia.org/wiki/Gulliver%27in_Gezileri
+- https://sr.wikipedia.org/wiki/Guliverova_putovanja
+- https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%A2%D7%99_%D7%92%D7%95%D7%9C%D7%99%D7%91%D7%A8
