@@ -27,6 +27,8 @@ description: "Gulliver's Travels, or Travels into Several Remote Nations of the 
   \ the world rather than divert it\".\nThe book became popular as soon as it was\
   \ published. John Gay wrote in a 1726 letter to Swift that \"It is universally read,\
   \ from the cabinet council to the nursery.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17157#Gulliver-s-TravelsInto-Several-Remote-Regions-of-the-World
 gutenberg_issued: '2005-11-26'
 gutenberg_type: Text
 identifiers:
